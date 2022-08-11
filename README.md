@@ -43,4 +43,4 @@ There are some of the tools and techs that i know and work(ed) with:
   <a href="https://discord.gg/8Ph5Ctkh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 <br>
-<p><spam style="font-style:italic">"DenjiDev Tech 💻"</spam></p>
+<p><spam style="font-style:italic">DenjiDev Tech 💻</spam></p>
