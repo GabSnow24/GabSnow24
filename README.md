@@ -18,7 +18,7 @@
 
 - Currently learning about DevOps and SRE through SRE Google books and Alura platform.
 - Studying Computer Engineering at Descomplica
-- Email: gabriel.queiroz@mblabs.com.br
+- Email: gqueiroz_photo@hotmail.com
 
 ### ⚡ Technologies:
 
