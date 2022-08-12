@@ -12,7 +12,7 @@
 
 <p>
   <em>
-    I'm 20 years old, i'm from Bahia - BR, and currently working at MB Labs as Backend Engineer and SRE/DevOps
+    I'm 20 years old, i'm from Bahia - BR, and currently working at MB Labs as Backend Engineer and studying, practing and applying by myself like a SRE/DevOps
   </em>
 </p>
 
